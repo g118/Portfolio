@@ -61,10 +61,11 @@
 					</div>
 					<div class="row">
 						<div class="col-md-12 fh5co-counter">
-							<div class="fh5co-number fh5co-left">3</div>
+							<div class="fh5co-number fh5co-left">1</div>
 							<div class="fh5co-text">
-								<h3 class="border-bottom">Years of experience in managing and providing Software Support to KFC/Taco Bell</h3>
-								<p>Providing Software Support for clearview Software, Managing inventory , generating daily financial reports, scheduling, making payrolls and providing training to staff on using software</p>
+								<h3 class="border-bottom">Years of experience in Software designing, developing and testing at Gore Mutual Insurance</h3>
+								<p>Work with Agile methodology with software developers, team leads and business analysts.Working on front end application,extensive experience in debugging and analysis of project.
+            </p>
 							</div>
 						</div>
 					</div>
@@ -86,8 +87,8 @@
 									<i class="icon-graduation-cap"></i>
 								</div>
 								<div class="fh5co-text">
-									<h2>2016-Present</h2>
-									<p>Computer Application Development Certification Program(Co-op).</p>
+									<h2>2016-2017</h2>
+									<p>Computer Application Development Certification Program(Honours).</p>
                                     <p>Conestoga College, Kitchener, ON</p>
 								</div>
 							</div>
@@ -131,10 +132,9 @@
 									<i class="icon-black-tie"></i>
 								</div>
 								<div class="fh5co-text">
-									<h2>2013 - 2016</h2>
-									<h3>KFC/Taco Bell</h3>
-									<p>Managed and provided techncial support to the restaurant on the clearview POS software,
-                                    Performed Inventory Managment , Payroll , generating financial reports and provided training to staff on Clearview software</p>
+									<h2>2017 - 2017</h2>
+									<h3>Gore Mutual Insurance</h3>
+									<p>Work on development of automation suite with GUI interface,using C#(.Net Framework) for backend , HTML, CSS, Javascript for front end and MySQL database</p>
 								</div>
 							</div>
 
